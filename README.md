@@ -11,6 +11,7 @@ Please refer to AUW's fall schedule. Any changes in the schedule will be announc
   
   *All Labs start at 1:40 PM*
 ## Materials:
+ - Access the materials here: https://drive.google.com/drive/folders/10sY2ZrQpg1SvldVS8_yJELpj1KXEDO5e?usp=sharing
  - Follow the official syllabus from Harvard: https://cs50.harvard.edu/x/2022/
- - Other materials will be posted on Google Classroom, and will be shared on this repo. 
+ 
 
